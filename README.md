@@ -1,4 +1,3 @@
 我的大学创新实践作业
 使用的开发环境是HBuilderx
-![游戏图片]([![6](https://github.com/user-attachments/assets/9862d498-4da9-434a-83b0-0883ecd8536f](https://ts1.cn.mm.bing.net/th/id/R-C.007d258b62595a3abf9d8235d3632991?rik=cmJjv45TgFOq3w&riu=http%3a%2f%2fpic.baike.soso.com%2fugc%2fbaikepic%2f30097%2fcut-20140325142716-2021820413.jpg%2f0&ehk=fu0zInufd1HB5bCOMAaXpHZZYLtFNIT416WFrw2cBQc%3d&risl=&pid=ImgRaw&r=0))
-)
+![游戏图片](https://cn.bing.com/images/search?view=detailV2&ccid=G%2bvMo1Na&id=D46AEB8C7A0962C2C2CFA9710D6C9C3221C092A7&thid=OIP.G-vMo1Na6WK4UkYSDQUi7AHaNK&mediaurl=https%3a%2f%2fcdn.ourplay.net%2fxspace%2fnews%2f1588585271284411.jpg&exph=1240&expw=698&q=2048%e6%b8%b8%e6%88%8f%e5%9b%be&simid=607997869188257205&FORM=IRPRST&ck=72ADB83D803282772AA1D4D717343AC7&selectedIndex=4&itb=0)
